@@ -1,4 +1,4 @@
-Notes From Repo: https://github.com/laosmidas/i3-dots
+Notes From Repo: https://github.com/laosmidas/arch-i3-dots
 
 # list drives.
 
