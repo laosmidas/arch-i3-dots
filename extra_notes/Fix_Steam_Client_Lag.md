@@ -1,4 +1,4 @@
-Notes From Repo: https://github.com/laosmidas/i3-dots
+Notes From Repo: https://github.com/laosmidas/arch-i3-dots
 
 # Fix Steam Client Lag in Window Managers such as Sway and/or i3
 
